@@ -144,12 +144,12 @@ function clearText(field)
         </div>
         
         <div id="sidebar">
-        	<h3>Cadastro de Categorias</h3>
+        	<h3>Pretende deletar? Vai em umas das opções:</h3>
             <ul class="sidebar_menu">
-			    <li><a href="filmedetai.php">Categoria de Filme</a></li>
-          <li><a href="#">Categoria de Cliente</a></li>
-          <li><a href="#">Categoria de Funcionario</a></li>
-          <li><a href="#">Categoria de Reserva</a></li>
+			    <li><a href="table_category.php">Deletar Categoria</a></li>
+          <li><a href="table_clientes.php">Deletar Clientes</a></li>
+          <li><a href="table_funcionarios.php">Deletar Funcionario</a></li>
+          <li><a href="table_reserva.php">Deletar Reservas</a></li>
             </ul>
           <h3>Noticias</h3>
           <p>Noticias de filmes, lançamentos e outras novidades do cinema.</p>
